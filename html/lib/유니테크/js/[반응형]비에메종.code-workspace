@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "[반응형]비에메종",
+			"path": "D:/하수정/HTML/[반응형]비에메종"
+		},
+		{
+			"name": "script",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "script"
+	}
+}
